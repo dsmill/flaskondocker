@@ -1,0 +1,4 @@
+This post has line breaks.
+This is the second line.
+
+This is the third line. There should be an extra line skipped before this line.
